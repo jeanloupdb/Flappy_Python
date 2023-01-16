@@ -7,4 +7,8 @@ https://flappy-jlal.000webhostapp.com/
 
 Pour tester le code :
 
-telechargez 
+telechargez le dossier flappy
+
+lancez le fichier flappy.py
+
+la bibliothèque Pygame doit être installée
